@@ -3,3 +3,5 @@ def greet():
 
 def farewell():
     print("Goodbye everyone")
+
+print("i merged the conflict")
